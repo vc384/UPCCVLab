@@ -1,8 +1,7 @@
-#石大视觉课题组科研说明
-###V2.0 2016.11.13   
-  
-[![icon]](http://www.upc.edu.cn/)  
-[icon]:http://i.imgur.com/dAKGeYf.jpg
+# 石大视觉课题组科研说明
+### V2.0 2016.11.13   
+
+[![upc](http://i.imgur.com/dAKGeYf.jpg "title")](http://www.upc.edu.cn/)
 
 1 前提
 
@@ -149,7 +148,7 @@
 
 - 郑海永 中国海洋大学 特别鸣谢
 
-#欢迎加入
+# 欢迎加入
 
 * 大三大四的同学请参看招生文件夹下的内容，如果和我们的理念相符，请尽快和我们取得联系；
 
